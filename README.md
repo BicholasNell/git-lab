@@ -1,4 +1,4 @@
 Nicholas Bell
 BicholasNell
 nb262619@ohio.edu
-I put my answers in answers.md
+CS 2400, Section 107
